@@ -1,3 +1,7 @@
 #your-fortune {
   display: none;
 }
+
+.jumbotron {
+  text-align: center;
+}
